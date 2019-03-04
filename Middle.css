@@ -45,6 +45,16 @@ h1
   text-align: center;
   color: black
 }
+#stripe1{
+  background: #232323;
+  height: 40px;
+  text-align: center;
+  font-size: 25px;
+  font-weight:700;
+  color:white;
+  margin-top: -10px;
+  margin-bottom: 5px;
+}
 .selected{
   color: white;
   background: steelblue;
